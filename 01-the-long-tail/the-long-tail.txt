@@ -1,8 +1,17 @@
-Title: Chris Anderson - The Long Tail (2006)
+Title: The Long Tail
+
 ----
+
+Subtitle: Chris Anderson, 2006
+
+----
+
 Date: 2008-11-11
+
 ----
+
 Text:
+
 "The Long Tail" by Chris Anderson, editor of ["Wired"](http://www.wired.com/), is a description of an economic trend, loosely based on the [Pareto Principle](http://en.wikipedia.org/wiki/Pareto_principle).
 
 The marketplaces of the latter half of the 20th century have been dominated by hits: a store carried only few items, which ideally sold in huge numbers. Carrying less popular items just didn't pay off, as conventional stores could only hold a very limited amount of items. But as the internet entered, offering these rarely requested items hardly increased expenses: No longer was real storage space required, merely hard disk space and bandwidth. All of a sudden a store could carry millions of items, and it even paid off if an item only sold like two units a year. Just multiply two units by a million items.
