@@ -1,4 +1,8 @@
-Title: Rework (Jason Fried, David Heinemeier Hansson, 2010)
+Title: Rework
+
+----
+
+Subtitle: Jason Fried and David Heinemeier Hansson, 2010)
 
 ----
 

@@ -1,4 +1,8 @@
-Title: Agile Software Development with Scrum (Ken Schwaber & Mike Beedle, 2002)
+Title: Agile Software Development with Scrum
+
+----
+
+Subtitle: Ken Schwaber and Mike Beedle, 2002
 
 ----
 
