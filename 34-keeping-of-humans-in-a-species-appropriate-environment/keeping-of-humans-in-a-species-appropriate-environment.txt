@@ -13,7 +13,7 @@ Text:
 
 Unfortunately (link:https://twitter.com/wilddueck text:Gunter Dueck) is not as well known outside of Germany as he should be: He is a math professor gone entrepreneur, with a focus on ethics, sustainability and innovation, and author of (link:http://www.omnisophie.com/bucher/ text:dozens of books). His most popular work is the (link:http://www.amazon.de/gp/product/3642348769/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3642348769&linkCode=as2&tag=sustapace-21&linkId=CWBDBWS7O47YOGOR text:Omnisophie trilogy), where he identified three basic types of human beings and the philosophies they represent, and unifies them into a single philosophy. 
 
-At (link:http://lanyrd.com/2013/bonnagile-may/scpgxr/ text:Bonn Agile) and at (link:http://programm.froscon.org/2013/events/1224.html text:FrOSCon 2013) I gave a german language talk on my perspective on Gunter Dueck's trilogy, focusing on the last part. I just wanted to share that here.
+At (link:http://lanyrd.com/2013/bonnagile-may/scpgxr/ text:Bonn Agile) and at (link:http://programm.froscon.org/2013/events/1224.html text:FrOSCon 2013) I gave a german language talk on my perspective on Gunter Dueck's trilogy, focusing on the last part with the tongue-in-cheek title "Keeping of Humans in a Species-Appropriate Environment".
 
 (youtube: https://www.youtube.com/watch?v=PzRlJ7cEOaI)
 <br>
