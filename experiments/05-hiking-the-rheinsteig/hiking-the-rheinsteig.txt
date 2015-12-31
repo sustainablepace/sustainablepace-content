@@ -74,3 +74,5 @@ Doing this kind of section hiking is a different experience than through hiking 
 It is still a very rewarding experience, and I feel the sensation of accomplishment, although it's not been a single attempt, but many small ones. In fact, I have already started to walk the (link:https://en.wikipedia.org/wiki/Rheinburgenweg_Trail text:Rheinburgenweg), the trail that's running on the other side of the Rhine from Rolandseck to Bingen. 
 
 I finished the trail in 13 stages. I would never have found two or three consecutive weeks to pull that off. In the end, I feel it's always better to have a microadventure (or a series of them) than dreaming about the big adventure - an adventure that might never happen.
+
+**Update:** Here's a (link:rheinsteig.kml text:KML file) of the whole trail.
