@@ -1,0 +1,35 @@
+Title: Watch my talk on Gunter Dueck and the Omnisophie trilogy
+----
+
+Date: 2015-01-31
+
+----
+
+Text:
+
+Unfortunately (link:https://twitter.com/wilddueck text:Gunter Dueck) is not as well known outside of Germany as he should be: He is a math professor gone entrepreneur, with a focus on ethics, sustainability and innovation, and author of (link:http://www.omnisophie.com/bucher/ text:dozens of books). His most popular work is the (link:http://www.amazon.de/gp/product/3642348769/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3642348769&linkCode=as2&tag=sustapace-21&linkId=CWBDBWS7O47YOGOR text:Omnisophie trilogy), where he identified three basic types of human beings and the philosophies they represent, and unifies them into a single philosophy. 
+
+At (link:http://lanyrd.com/2013/bonnagile-may/scpgxr/ text:Bonn Agile) and at (link:http://programm.froscon.org/2013/events/1224.html text:FrOSCon 2013) I gave a german language talk on my perspective on Gunter Dueck's trilogy, focusing on the last part with the tongue-in-cheek title "Keeping of Humans in a Species-Appropriate Environment".
+
+(youtube: https://www.youtube.com/watch?v=PzRlJ7cEOaI)
+<br>
+
+Dueck describes the struggle between these different types of human beings very convincingly, and in the final part of the trilogy comes up with an approach how these types might manage to get along better. The gist is that all individual philosophies are valid in their context, but a new philosophy is needed to improve the quality of interactions between different types.
+
+(image:01.jpg)
+
+I suggest reading the books to get a better feel for the three types. Once you have understood the concept, you will have a much clearer and more affectionate perspective on people. Maybe you find this (link:http://www.omnisophie.com/bucher/omnisophie-teil-1-der-trilogie/ text:short synopsis) in german language by Gunter Dueck helpful. I'm only going to give you a brief introduction:
+
+The three types of human beings are 
+
+ - true &minus; idealists, who solve problems in a generalized way
+ - right &minus; conservatives, who solve problems by best practices
+ - natural &minus; rebels, who solve problems the way that suits them
+
+A simple example is the education system, that is designed for conservatives (children who are good at learning facts and are willing to accept the status quo). Idealists (children who are trying to understand the underlying systems) are bored in school, but get along, while rebels (children who are street smart, learn better in practice than in theory, by trial and error) are suppressed, and are often labeled hyperactive. We need a school system that helps each type live up to their individual potential, and not a single ideal.
+
+(You might also be interested in the podcast (link:http://www.dueckantwortet.de/ text:Dueck antwortet), which I helped fund in a recent (link:https://www.startnext.com/dueckantwortet text:crowdsourcing campaign).)
+
+(image:http://ir-de.amazon-adsystem.com/e/ir?t=sustapace-21&l=as2&o=3&a=3642348769)
+
+
