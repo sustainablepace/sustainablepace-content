@@ -10,11 +10,27 @@ Text:
 
 _(This is something I wanted to build a few years ago. Unfortunately it never materialized. I still think it's a cool idea!)_
 
-# Thanktuary - the stress-free social network #
+## What's wrong with Facebook, Twitter, etc? ##
+
+Thanktuary appreciates the value social networks have brought to the world, but wants to address the following problems they have
+
+### Too much content ###
+
+It's not unusual for an average social network user to be exposed to hundreds of status updates each day. It takes a lot of time and energy to filter out interesting information. It's easy to __feel afraid of missing out__. 
+
+### Unlimited activity ###
+
+You can always add another status update, comment, or upload another photo. Most people have several hundred contacts, and are trying to attract more. It's never enough. Some people find it hard to find an exit when browsing social network sites.
+
+### Too much self-obsession ###
+
+The focus on social network sites is always on you. The idea is to create an interesting profile or timeline, in order to attract and maintain a large audience. People easily feel obliged to regularly updating their profiles, and feel they need to live up to the image they have created of themselves.
+
+## So what about Thanktuary? ##
+
+The core idea is simple:
 
 - Thank five people per week. And you're done!
-
-## Why Thanktuary? ##
 
 ### It saves your time ###
 
@@ -38,21 +54,5 @@ In the world of social networks, Thanktuary acts as a sanctuary - a __safe__ pla
 ### It is a meditiation exercise ###
 
 Social networks have successfully enabled people to create contact networks for interacting with each other and distributing content. While this is nothing short of amazing, there are people who feel there are downsides to social networks which easily lead to fatigue or stress.
-
-## What's wrong with Facebook, Twitter, etc? ##
-
-Thanktuary appreciates the value social networks have brought to the world, but wants to address the following problems they have
-
-### Too much content ###
-
-It's not unusual for an average social network user to be exposed to hundreds of status updates each day. It takes a lot of time and energy to filter out interesting information. It's easy to __feel afraid of missing out__. 
-
-### Unlimited activity ###
-
-You can always add another status update, comment, or upload another photo. Most people have several hundred contacts, and are trying to attract more. It's never enough. Some people find it hard to find an exit when browsing social network sites.
-
-### Too much self-obsession ###
-
-The focus on social network sites is always on you. The idea is to create an interesting profile or timeline, in order to attract and maintain a large audience. People easily feel obliged to regularly updating their profiles, and feel they need to live up to the image they have created of themselves.
 
 _(Feel free to use the idea and the name.)_
