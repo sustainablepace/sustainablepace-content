@@ -75,19 +75,19 @@ __Loss Aversion__ is also a core finding of __Prospect Theory__. Actors would ra
 
 (image:gains_losses.jpg)
 
-The __Certainty Effect__ describes that people are willing to pay to reduce risk in the context of high probability winnings - actors rather choose a 100% chance to win $10,000 than a 95% chance to win $12,000. In the context of losses actors are risk seeking - imagine owning a stock that has decreased significantly in value: you will try hard to avoid losses are will buy over and over again to lower your overall price.
+The __Certainty Effect__ describes that people are willing to pay to reduce risk in the context of high probability winnings - actors rather choose a 100% chance to win $10,000 than a 95% chance to win $12,000. In the context of losses actors are risk seeking - imagine owning a stock that has decreased significantly in value: you will try hard to avoid losses are willing to buy over and over again to lower your overall price.
 
-The __Possibility Effect__ can best be described as a lottery ticket in the gains scenario: Actors are willing to pay just to have a chance to win a large price. The experienced value increase from a 0% to a 1% chance of winning is a lot higher than an increase from 1% to 2%. In the losses scenario, people are again risk averse, this is the "buying insurance" scenarion.
+The __Possibility Effect__ can best be described as a lottery ticket in the gains scenario: Actors are willing to pay just to have a chance to win a large price. The experienced value increase from a 0% to a 1% chance of winning is a lot higher than an increase from 1% to 2%. In the losses scenario, people are again risk averse, this is the "buying insurance" scenario.
 
 ### Endowment Effect ###
 
-Another interesting finding that describes that people are rating things they own with a higher value than things they do not own. If you wanted to see your favourite musician perform, and tickets cost $100, you would for example be willing to pay $200, but would only be willing to sell for a value of, say, $1000. There is also a famous experiment where people are randomly given a chocolate bar or a coffee mug, and are later offered to exchange the gift for the other. A huge majority sticks with the gift they were given in the first place.
+Another interesting finding - it describes that people are rating things they own with a higher value than things they do not own. If you wanted to see your favourite musician perform, and tickets cost $100, you would for example be willing to pay $200, but would only be willing to sell for a value of, say, $1000. There is also a famous experiment where people are randomly given a chocolate bar or a coffee mug, and are later offered to exchange the gift for the other. A huge majority sticks with the gift they were given in the first place.
 
 ## Conclusion ##
 
 For me it was fascinating to see how easily poor decisions are made. It helps to understand that, while fast mode offers significant upsides like conserving energy, it is also insufficient to solve complex problems that are more frequent today - the __number of simple jobs is simply shrinking__, and most jobs that could be done by fast mode are now done by machines. Although fast mode is genius because of its simplicity, I argue that __you need slow mode more than ever today__.
 
-The other major takeaway for me was to be more careful with the energy I expend. It's essential to __avoid Ego Depletion__ and rather work less than making poor decisions. I think __meditation__ is also helpful to identify when you are switching from fast mode to slow mode and back. My hope is that with some training I can become more aware of the mode I'm currently in.
+The other major takeaway for me was to be more careful with the energy I expend. It's essential to __avoid Ego Depletion__ and I would rather work less than make poor decisions. I think __meditation__ is also helpful to identify when you are switching from fast mode to slow mode and back. My hope is that with some training I can become more aware of the mode I'm currently in.
 
 I guess the knowledge about the different modes will help me to be __more compassionate__ with fellow human beings in the long run. Face it, almost everyone will never care about their current mode. So I will try to be __more patient__, taking the steam out of heated discussions, allowing for pauses and breaks, and making sure there is enough energy in everyone to allow for a __rational dialogue__.
 
