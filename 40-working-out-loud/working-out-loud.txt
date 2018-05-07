@@ -12,7 +12,7 @@ Text:
 
 (image:working-out-loud.jpg)
 
-The core idea is creating a __reinforcing feedback loop__ by employing the five pillars of Working Out Loud
+The core idea is creating a (link:http://www.systems-thinking.org/theWay/sre/re.htm text:reinforcing loop) by employing the five pillars of Working Out Loud
 
  - identify a __goal__ (_"purposeful discovery"_)
  - find __people__ who could help you (_"building relationships"_)
@@ -89,6 +89,10 @@ An extended network will also __minimize the time you dwell on problems alone__ 
 I also find that __making work visible is hardly an extra effort__, if you actually do it. A few years ago (link:http://blog.baudson.de/humble text: I started a blog called The Humble Developer), where I published very short posts on stuff I learnt during work. I'm surprised that I still get feedback about (link:http://blog.baudson.de/blog/stop-and-remove-all-docker-containers-and-images text:some of the posts) quite frequently, compared with the little time I spent writing them.
 
 Nowadays I often find myself solving a complex problem for hours, without spending an extra ten minutes to write something about it - which is kind of stupid. I want to be more disciplined and work out louder from now on.
+
+### System theory ###
+
+__Addition__: I forgot to state the most obvious reason for Working Out Loud being almost effortless: The cycle above is __a reinforcing loop__ in system theory. This means that it is __designed to be effortless__: each new iteration of the loop comes with more and better feedback and development opportunities - it's a virtuous cycle.
 
 ## Working Out Loud at work ##
 
