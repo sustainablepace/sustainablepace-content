@@ -11,11 +11,7 @@ Text:
 Yesterday I organized a (link:http://www.marshmallowchallenge.com/Welcome.html text:Marshmallow Challenge), a team exercise that reveals some interesting lessons on collaboration. 
 
 > _The task is simple: in eighteen minutes, teams must build the tallest free-standing structure out of 20 sticks of spaghetti, one yard of tape, one yard of string, and one marshmallow. The marshmallow needs to be on top._
-I got the idea from (link:http://www.scrumalliance.org/profiles/2491-peter-b-stevens text:Peter Stevens), who posted it on his new blog, (link:http://scrum4kids.blogspot.com/2010/09/start-with-marshmallow.html text:Scrum4Kids). I recommend you take a look at this seven minute video, where (link:http://www.tomwujec.com/ text:Tom Wujec) explains it much better than I could:
-
-
-(youtube: http://www.youtube.com/watch?v=H0_yKBitO8M) 
-
+I got the idea from (link:http://www.scrumalliance.org/profiles/2491-peter-b-stevens text:Peter Stevens), who posted it on his new blog, (link:http://scrum4kids.blogspot.com/2010/09/start-with-marshmallow.html text:Scrum4Kids).
 
 The challenge I hosted had three teams consisting of three people each. The results were similar to what Tom Wujec described in his talk: The teams mostly followed a single plan, and tried to build a standing structure without a major redesign. Here's a draft one team produced.
 
