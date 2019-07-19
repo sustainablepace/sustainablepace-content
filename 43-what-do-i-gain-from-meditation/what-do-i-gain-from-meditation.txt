@@ -8,7 +8,7 @@ Date: 2019-07-19
 
 Text:
 
-During my weekend at a Zen monastery, there were two Q&A sessions with the Zen master, where more or less the same questions kept popping up. This blog post is about "What do I gain from meditation?", the question "What do I do during meditation?" has its (link:what-do-i-do-during-meditation text:own blog post).
+During my (link:experiments/a-weekend-at-a-zen-monastery text:weekend at a Zen monastery), there were two Q&A sessions with the Zen master, where more or less the same questions kept popping up. This blog post is about "What do I gain from meditation?", the question "What do I do during meditation?" has its (link:what-do-i-do-during-meditation text:own blog post).
 
 ## What do I gain from meditation? ##
 
