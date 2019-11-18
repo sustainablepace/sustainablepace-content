@@ -26,7 +26,7 @@ The short answer is __intrinsic motivation__ - you will perform better when you 
 
 So Working Out Loud is __not a productivity hack__ - it's an attitude of taking responsibility and having a more fulfilling life and work. Rather than finding a job you fit into, create the job that can only be done by you!
 
-(image:reinforcing-loop.jpg)
+(image:reinforcing-loop.png)
 
 ## The five pillars of Working Out Loud explained ##
 
@@ -70,7 +70,7 @@ The Japanese islands of Okinawa are inhabitated by a people who are known to lea
 
 There is a wonderful infographic on Ikigai (I have no idea who is the creator though) - take a minute and picture yourself in that diagram:
 
-(image:ikigai.jpg)
+(image:ikigai.png)
 
 From my experience, a few decades ago the norm was working in the lower left section of the diagram. And this is what schools and universities still prepare people for. While life in this section is satisfying and comfortable, people will ultimately feel useless and empty.
 
