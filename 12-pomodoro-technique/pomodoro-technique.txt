@@ -44,3 +44,7 @@ The (link:http://www.pomodorotechnique.com/ text:official website) has everythin
 ##Perspective##
 
 I have started using the Pomodoro Technique last Friday, and I wonder if I can keep it up. Although the creator says it is suitable for teams, I assume it will be the source of conflicts, if not the whole team is using it. But I will try to make it work, and will let you know how that plays out. I assume it will definitely work for individuals, and very likely in pairs. What are your thoughts on this technique? Is it something you would use? What drawbacks do you see? Or are you already using it? I'm curious about some feedback.
+
+## Pomodoro technique in german ##
+
+I had written a short text about the Pomodoro technique (link:Pomodoro-Technik.pdf text:PDF) a while back.
