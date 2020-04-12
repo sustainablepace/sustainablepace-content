@@ -8,7 +8,7 @@ Date: 2020-04-12
 
 Text:
 
-In this concise, easily digestable book Dobelli argues that news are irrelevant, and their consumption harmful. For him, news are characterized as being short, superficial and event-based (lacking context). They are written by journalists who are in general not experts in any domain. News for him are not books or articles, for example in scientific magazines, written by experts.
+In this concise, easily digestable book Dobelli argues that news are irrelevant, and their consumption harmful. For him, news are characterized as being short, superficial and event-based (lacking context) pieces of information. They are written by journalists who are in general not experts in any domain. By his definition, news are not books or articles, for example in scientific magazines, written by experts and focusing on a systemic and contextual perspective.
 
 (image:01.jpg)
 
@@ -28,7 +28,7 @@ In 35 chapters, each having the length of a short blog post, he claims that news
  - foster terrorism
  - destroy our peace of mind
 
-I really liked how quickly Dobelli makes his point in each chapter, the book really flows and is a pleasure to read. Sometimes his examples and argumentation are a bit one-dimensional, but in essence he makes a compelling argument against news and their consumption.
+I really liked how quickly Dobelli makes his point in each chapter, the book really flows and is a pleasure to read. Sometimes his examples and argumentation are a bit one-dimensional and his style a little complacent, but in essence he makes a compelling argument against news and their consumption.
 
 ## News in times of the pandemic ##
 
@@ -48,4 +48,4 @@ So don't feel out of place if most news out there makes you sick to your stomach
 
 I'm not sure if my life will change after reading this book. My current habits include browsing a few selected news sites daily (Die Zeit or FAZ), some occasionally (Guardian or NZZ). Most of my input comes from a carefully curated Twitter feed, which seems to be an effective counter-balance. In the past I have successfully (link:experiments/stop-following-professional-football text:stopped following professional football) which was quite a refreshening experience. I'm already thinking about a follow-up experiment, like stopping to read online news, and instead listening to a single weekly podcast, for example (link:https://www.deutschlandfunk.de/deutschlandfunk-der-politikpodcast.3290.de.html text:Deutschlandfunk's Politikpodcast).
 
-How do you deal with news during the pandemic? Let's discuss on Twitter.
+How do you deal with news during the pandemic? Let's (link:https://twitter.com/sustainablepace/status/1249344007349682181 text:discuss on Twitter).
