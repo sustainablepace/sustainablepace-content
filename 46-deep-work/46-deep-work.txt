@@ -17,6 +17,7 @@ The author describes Deep Work as an increasingly rare __ability to focus intens
 ## The idea
 
 In the first part, Cal explains why he thinks that Deep Work is
+
  - rare
  - valuable
  - meaningful
