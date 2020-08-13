@@ -8,11 +8,11 @@ Date: 2020-08-13
 
 Text:
 
-After having read Michael Andrick's Erfolgsleere, "Deep Work"'s subtitle "Rules for focused success in a distracted world" turned me off initially. I'm increasingly suspicious of books that use the commonplace "success" as bait. But my reservation was totally unfounded, as Cal Newport's book is a great one, and has helped me understand quite a few things about myself.
+After having read Michael Andrick's (link:erfolgsleere text:Erfolgsleere), "Deep Work"'s subtitle "Rules for focused success in a distracted world" turned me off initially. I'm increasingly suspicious of books that use the commonplace "success" as bait. But my reservation was totally unfounded, as Cal Newport's book is a great one, and has helped me understand quite a few things about myself.
 
 (image:deepwork.jpg)
 
-The author describes Deep Work as an increasingly rare ability to focus intensely over a long period of time, in order to solve complicated problems. He says that by acquiring this skill you will not only make yourself sought after in today's economy, it also leads to a better quality of life in general. If you're more of a scatterbrain, don't despair - the ability to perform deep work is something that can be learned, it needs to be trained like a muscle.
+The author describes Deep Work as an increasingly rare __ability to focus intensely over a long period of time__, in order to solve complicated problems. He says that by acquiring this skill you will not only make yourself sought after in today's economy, it also leads to a __better quality of life__ in general. If you're more of a scatterbrain, don't despair - the ability to perform deep work is something that can be learned, it __needs to be trained like a muscle__.
 
 ## The idea
 
