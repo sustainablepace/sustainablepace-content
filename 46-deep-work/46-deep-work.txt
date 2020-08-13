@@ -8,7 +8,7 @@ Date: 2020-08-13
 
 Text:
 
-The author describes Deep Work as an increasingly rare __ability to focus intensely over a long period of time__, in order to solve complicated problems. He says that by acquiring this skill you will not only make yourself sought after in today's economy, it also leads to a __better quality of life__ in general. If you're more of a scatterbrain, don't despair - the ability to perform deep work is something that can be learned, it __needs to be trained like a muscle__.
+The author describes __Deep Work__ as an increasingly rare __ability to focus intensely over a long period of time__, in order to solve complicated problems. He says that by acquiring this skill you will not only make yourself sought after in today's economy, it also leads to a __better quality of life__ in general. If you're more of a scatterbrain, don't despair - the ability to perform deep work is something that can be learned, it __needs to be trained like a muscle__.
 
 (image:deepwork.jpg)
 
@@ -20,11 +20,11 @@ In the first part, Cal explains why he thinks that Deep Work is
  - valuable
  - meaningful
 
-While the first two aspects are pretty much evident if you're familiar with the absurdly chaotic nature of even progressive workplaces, the third one resonated most with me. I think this is connected to my reservations about "success" - while the scarcity and value of Deep Work is something that can be monetized, __meaningfulness__ is a different, more __personal measure of "success"__.
+While the first two aspects are pretty much evident if you're familiar with the absurdly chaotic nature of even progressive workplaces, the third one resonated most with me. I think this is connected to my reservations about "success" - while the scarcity and value of Deep Work is something that can be monetized, __meaningfulness__ is a different, more __personal measure of "success"__. This is important, because it elevates Deep Work above the level of being just another self-optimization fad - it's a a genuine approach towards both __realizing your potential__ and __being yourself__.
 
-It reminded me of the concept of mindfulness, that can help you seeing meaning even in mundane tasks. The author described how a sword maker operates - he has to be alert over a long period of time, otherwise the sword might break, rendering the whole effort pointless. Forging the sword is more or less repeatedly banging on a piece of metal - but __immersing yourself__ in the process and __envisioning the finished product__ gives meaning to every beat of the hammer.
+I was often reminded of the concept of __mindfulness__, because that too can help you finding meaning even in mundane tasks. The author described how a sword maker operates - he has to be alert over a long period of time, otherwise the sword might break, rendering the whole effort pointless. Forging the sword is more or less repeatedly banging on a piece of metal - but __immersing yourself__ in the process and __envisioning the finished product__ gives meaning to every beat of the hammer.
 
-This aspect of __Flow__ is something that I'm also seeking constantly, even in apparently simple task there is often so much to learn, things that spark my curiosity, things that just lie beneath the surface and beg to be discovered.
+This aspect of __Flow__ is something that I'm also seeking constantly, even in apparently simple tasks there is often so much to learn, things that spark my curiosity, things that just lie beneath the surface and beg to be discovered, things that keep me focused for a long time.
 
 ## The rules
 
@@ -35,7 +35,7 @@ In the second part of the book Cal starts by describing __routines__ and __ritua
  - __rhythmic__: do only short units of Deep Work, but scheduled, every day
  - __journalistic__: do Deep Work whenever you have the opportunity - very hard
 
-He mentions Carl Jung, the swiss psychologist, who employed the bimodal philosophy. He still worked regularly in Zurich in his practice, but built his own __retreat__ for when he felt he needed to focus - at the time he was intensely competing with Sigmund Freud academically. It's a tower near lake Zurich, where he would __be undisturbed__, could __go for walks__ and work on the __big questions_.
+He mentions Carl Jung, the swiss psychologist, who employed the bimodal philosophy. He still worked regularly in Zurich in his practice, but built his own __retreat__ himself (!) for when he felt he needed to focus - at the time he was intensely competing with Sigmund Freud academically. The retreat is Bollingen Tower near lake Zurich, where he would __be undisturbed__, could __go for walks__ and work on the __big questions_. _(Here is a (link:https://medium.com/@calypsobase/visiting-carl-jungs-tower-in-bollingen-4cafe8e52636 text:wonderful travel report) on a visit to the tower with beautiful photos)_
 
 Another great idea in this chapter is the (link:https://www.workfront.com/blog/eudaimonia-machine-blueprint-virtual-workplace text:Eudaimonia Machine), a concept of a workplace where deep work is a first-class citizen. It is a sequence of rooms that are suited for various levels of depth, culminating in chambers for deep focus, sparsely furnitured single rooms where Deep Work is done. In contrast, in today's workplaces the open-plan office is a monoculture, it only allows for a single mode of work, a mode dominated by shallowness and distraction. But there are offices that go in the right direction, as Joel Spolsky has proved with (link: https://www.joelonsoftware.com/2003/09/24/bionic-office/ text:Fog Creek's office).
 
