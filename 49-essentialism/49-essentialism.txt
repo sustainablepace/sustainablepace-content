@@ -26,9 +26,9 @@ In a later chapter he also uses film __editing__ as a metaphor - sometimes it's 
 
 The next part is about how to be aware of and handle the distractions, and minimizing them in order to focus on the important stuff. An important reminder to me was to __say "no"__ more often, and focus only on the things that I absolutely want to do. The __fear of missing out__ is a seductive force - even if proposals sound beneficial. McKeown recommends saying "yes" to only the top 10% opportunities you come along.
 
-Dealing with __social pressure__ is also something that needs to be learned. If you try it, you'll find people greatly respect a reasonable "no". And it's also never too late to say "no" - it makes sense to regularly evaluate ongoing projects and pull the plug on them if they don't turn out to be rewarding. This has also been well-described in Kahneman's book (link:thinking-fast-and-slow text:Thinking fast and slow).
+Dealing with __social pressure__ is also something that needs to be learned. If you try it, you'll find people greatly respect a reasonable "no". And it's also never too late to say "no" - it makes sense to regularly evaluate ongoing projects and pull the plug on them if they don't turn out to be rewarding. This has also been well-described in Kahneman's book (link:thinking-fast-and-slow text:Thinking fast and slow) (endowment effect).
 
-I also liked his idea of asking yourself this: if the opportunity would not be there, how much would you be willing to offer to have it? In the end, you need to know your limits, and keep the trade-offs (the opportunity costs) in mind - you can only do so much in your life.
+I also liked his idea of asking yourself this: __if the opportunity would not be there, how much would you be willing to offer to have it?__ In the end, you need to know your limits, and keep the trade-offs (the opportunity costs) in mind - you can only do so much in your life.
 
 ## Buffers and Play
 
@@ -36,9 +36,9 @@ The author also recommends to __block time__ regularly for the important things 
 
 ## Routine
 
-In the last part McKeown gives practical advice on how to effortlessly implement essentialism. The chapter on "Routine" gave me the most here, as it describes the meticulous routine of Olympic gold medal winner Michael Phelps as he prepares for a swimming competition. Everything is planned out, and by sticking to the plans he eliminates surprises and distractions.
+In the last part McKeown gives practical advice on how to effortlessly __implement__ essentialism. The chapter on "Routine" gave me the most here, as it describes the meticulous routine of Olympic gold medal winner Michael Phelps as he prepares for a swimming competition. By sticking to the plan he builds focus and eliminates surprises and distractions.
 
-This idea, and actually most ideas in the book, also describe what the Working Out Loud training program does for you. And as I have written before, the idea of planning your whole day is something I took away from Deep Work, and it works quite well for me.
+This idea, and actually most ideas in the book, also describe what the (link:working-out-loud text:Working Out Loud) training program does for you. And as I have written before, the idea of planning your whole day is something I took away from Deep Work, and it works quite well for me.
 
 ## Summary
 
