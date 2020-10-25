@@ -1,0 +1,47 @@
+Title: Essentialism: The Disciplined Pursuit of Less (Greg McKeown, 2014)
+
+----
+
+Date: 2020-10-25
+
+----
+
+Text:
+
+As I try to follow the ideals of elegance and simplicity in my life, Greg McKeown's "Essentialism" got my attention. He defines essentialism as doing less, but focusing on the right things, and explains different aspects of essentialism in about 20 blog-post-sized chapters.
+
+(image:essentialism.jpg)
+
+## Journaling and Editing
+
+He starts with the essentialist's mindset in theory, which involves __getting in the driver's seat__ and making __choices__ for yourself, discerning important from unimportant, and continues with a few practical chapters on how to do this. I liked the chapter called "Look" best.
+
+McKeown uses __journalism__ as a metaphor: he compares the journalist's ability to identify the essence of a confusing, unclear situation and turning it into a news story to analyzing your own life - by taking a closer, objective look, asking yourself the right questions, choosing the relevant bits, and getting yourself out there, and thus turning your life itself into an interesting story.
+
+He also recommends __starting a journal__ (that is what "journalism" actually is), something that quite a few have recommended to me in the past, but so far I have not done so.
+
+In a later chapter he also uses film __editing__ as a metaphor - sometimes it's better to remove something than to add more to it. Best-picture winners at the Academy Awards very often also win the Best-editing award!
+
+## Saying "No"
+
+The next part is about how to be aware of and handle the distractions, and minimizing them in order to focus on the important stuff. An important reminder to me was to __say "no"__ more often, and focus only on the things that I absolutely want to do. The __fear of missing out__ is a seductive force - even if proposals sound beneficial.
+
+Dealing with __social pressure__ is also something that needs to be learned. And in general, people greatly respect a reasonable "no". And it's also never too late to say "no" - it makes sense to regularly evaluate ongoing projects and pull the plug on them if they don't turn out to be rewarding. This has also been well-described in Kahneman's book (link:thinking-fast-and-slow text:Thinking fast and slow).
+
+McKeown recommends saying "yes" to only the top 10% opportunities you come along. I also liked his idea of asking yourself this: if the opportunity would not be there, how much would you be willing to offer to have it? In the end, you need to know your limits, and keep the trade-offs (the opportunity costs) in mind - you can only do so much in your life.
+
+## Buffers and Play
+
+The author also recommends to __block time__ regularly for the important things in your life, and stick to the plan. In these time-slots you should not only work on your goals with a high focus, but also allow __playful__ activities that do not directly contribute to a goal. These activities will often often up options that you would have missed easily. The advices here reminded me of what I read in (link:deep-work text:Deep Work)
+
+## Routine
+
+In the last part McKeown gives practical advice on how to effortlessly implement essentialism. The chapter on "Routine" gave me the most here, as it describes the meticulous routine of Olympic gold medal winner Michael Phelps as he prepares for a swimming competition. Everything is planned out, and by sticking to the plans he eliminates surprises and distractions.
+
+This idea, and actually most ideas in the book, also describe what the Working Out Loud training program does for you. And as I have written before, the idea of planning your whole day is something I took away from Deep Work, and it works quite well for me.
+
+## Summary
+
+All in all, there is good advice is this book. But somehow it felt like I heard it all before - it feels like a blog post compilation of the top (time) management books from the last 25 years. Stylistically the author relies on anecdotes a lot, which might serve a good metaphor, but is hardly scientific. The chapter also overlap quite a bit. All this gives the book a shallow, unoriginal touch and undermines it genuinely interesting premise - in the end it feels like essentialism was used as a common denominator for a mixed bag of ideas.
+
+But then again, it is a fast read and has some sound advice, so it's just okay for a quick Sunday afternoon read - a compilation of generally good ideas.
