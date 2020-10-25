@@ -8,15 +8,15 @@ Date: 2020-10-25
 
 Text:
 
-As I try to follow the ideals of elegance and simplicity in my life, Greg McKeown's "Essentialism" got my attention. He defines essentialism as doing less, but focusing on the right things, and explains different aspects of essentialism in about 20 blog-post-sized chapters.
+As I try to follow the ideals of __elegance__ and __simplicity__ in my life, Greg McKeown's "Essentialism" got my attention. He defines essentialism as __doing less__, but focusing on the __right things__, and explains different aspects of essentialism in about 20 blog-post-sized chapters.
 
 (image:essentialism.jpg)
 
 ## Journaling and Editing
 
-He starts with the essentialist's mindset in theory, which involves __getting in the driver's seat__ and making __choices__ for yourself, discerning important from unimportant, and continues with a few practical chapters on how to do this. I liked the chapter called "Look" best.
+He starts with the essentialist's mindset in theory, which involves __getting in the driver's seat__ and making __choices__ for yourself, discerning important from unimportant, and continues with a few practical chapters on how to do this.
 
-McKeown uses __journalism__ as a metaphor: he compares the journalist's ability to identify the essence of a confusing, unclear situation and turning it into a news story to analyzing your own life - by taking a closer, objective look, asking yourself the right questions, choosing the relevant bits, and getting yourself out there, and thus turning your life itself into an interesting story.
+I liked the chapter called "Look" best, where McKeown uses __journalism__ as a metaphor: he describes the journalist's ability to identify the essence of a confusing, unclear situation and turning it into a news __story__. He then translates the metaphor to scripting your own life - by taking a closer, objective look, asking yourself the right questions, choosing the relevant bits, and getting yourself out there. And thus, turning your life itself into an interesting story.
 
 He also recommends __starting a journal__ (that is what "journalism" actually is), something that quite a few have recommended to me in the past, but so far I have not done so.
 
