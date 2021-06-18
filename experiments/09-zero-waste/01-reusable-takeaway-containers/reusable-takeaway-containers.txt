@@ -14,11 +14,11 @@ During the pandemic with its long stretches of homeschooling, ordering takeaway 
 
 The Cologne-based startup (link:https://www.vytal.org/ text:Vytal) collaborates with (link:https://www.vytal.org/cities/bonn-beste-restaurants-essen-mitnehmen-corona-vytal text:dozens of restaurants in my hometown Bonn). The process is pretty straightforward.
 
- 1. *Download* the Vytal app
- 2. *Order* takeaway food in a partner restaurant and *add your personalized Vytal token* into the comments section of your online order
- 3. Your order is now being prepared and put into Vytal containers
- 4. *Pick up* your order at the partner restaurant, where the *staff scans the barcodes* of the containers, and a personalized QR code in your Vytal app
- 5. After your meal, *clean up and return* the empty containers in any partner restaurant within two weeks
+ - __Download__ the Vytal app
+ - __Order__ takeaway food in a partner restaurant and __add your personalized Vytal token__ into the comments section of your online order
+ - Your order is now being prepared and put into Vytal containers
+ - __Pick up__ your order at the partner restaurant, where the __staff scans the barcodes__ of the containers, and a personalized QR code in your Vytal app
+ - After your meal, __clean up and return__ the empty containers in any partner restaurant within two weeks
 
 ## Let's do this ##
 
