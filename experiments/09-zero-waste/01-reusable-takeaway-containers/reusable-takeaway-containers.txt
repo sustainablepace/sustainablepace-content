@@ -12,7 +12,7 @@ During the pandemic with its long stretches of homeschooling, ordering takeaway 
 
 ## Vytal ##
 
-The Cologne-based startup (link:https://www.vytal.org/ text:Vytal) collaborates with (link:https://www.vytal.org/cities/bonn-beste-restaurants-essen-mitnehmen-corona-vytal text:dozens of restaurants in my hometown Bonn). The process is pretty straightforward.
+The Cologne-based startup (link:https://www.vytal.org/ text:Vytal) collaborates with (link:https://www.vytal.org/cities/bonn-beste-restaurants-essen-mitnehmen-corona-vytal text:dozens of restaurants in my hometown Bonn). The process works like this
 
  - __Download__ the Vytal app
  - __Order__ takeaway food in a partner restaurant and __add your personalized Vytal token__ into the comments section of your online order
