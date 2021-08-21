@@ -20,9 +20,9 @@ But nowadays we __no longer have the time to grow trust through familiarity and 
 
 (image:vertrauenfuehrt.jpg)
 
-## Trust is a reaction to riskful situations
+## Trust is a reaction to risky situations
 
-Often trust is perceived as something inherently risky - can I really trust that person? But __trust itself is never risky__, it is merely an __option how to react to riskful situations__. It helps to distinguish between risk factors, for example, whether the other person has the ability or the willingness to complete a given task. Ability can be developed by training, but a lack of will might disqualify that person.
+Often trust is perceived as something inherently risky - can I really trust that person? But __trust itself is never risky__, it is merely an __option how to react to risky situations__. It helps to distinguish between risk factors, for example, whether the other person has the ability or the willingness to complete a given task. Ability can be developed by training, but a lack of will might disqualify that person.
 
 There is a saying in german, __"Vertrauen ist gut, Kontrolle ist besser"__, meaning trust is good, but control is even better.  While that statement might sound dated, Sprenger says it's actually neither right nor false, it depends on the situation. For example, you can easily control your barber by taking a look in the mirror, while you might have trouble evaluating the work of your tax advisor.
 
@@ -32,7 +32,7 @@ However, that saying implies that mistrust is the default, which is dangerous. _
 
 Just saying "you can trust me" doesn't lead to people trusting you. They might actually trust you less. Trust always starts with __vulnerability__. Sprenger recollects a friend browsing a book store while being away in foreign city, finding a great book, but not having enough money to pay for it. Nevertheless, the shop owner let him take the book, telling to pay him later. By exposing himself (the friend might not have paid after all) he created an implicit contract, that was so powerful that made the person pay him even a little more than what was owed.
 
-Making yourself vulnerable and proactively trusting others sounds counter-intuitive, but here __weakness is actually strength__. Trust creates a responsility in people, and if trust is reduced, there is less commitment from the other person. In german we have the term "innere Kündigung", which means mentally cutting the ties to your organization. So think twice, your well-intended controlling mechanisms might eventually backfire.
+Making yourself vulnerable and proactively trusting others sounds counter-intuitive, but here __weakness is actually strength__. Trust creates a responsibility in people, and if trust is reduced, there is less commitment from the other person. In german we have the term "innere Kündigung", which means mentally cutting the ties to your organization. So think twice, your well-intended controlling mechanisms might eventually backfire.
 
 But let's be honest, trust will not work in any case. When you find out that you can't trust someone at all, it's best to stop collaborating altogether. There is no benefit in trying to change people, and it wastes everyone's time. But remember, while you can't trust everyone, __the only way to find trustful people is to trust them__.
 
