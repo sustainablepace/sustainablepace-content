@@ -43,7 +43,11 @@ You can't imagine how little information on computer games was out there in the 
 
 But there were also a few magazines. Here's an excerpt from a 1986 special edition of Happy Computer, the first that focused exclusively on games. I had that magazine in the 80s, and it was a bible to me.
 
-<hr>(image:happycomputer.jpg)<hr>
+<hr>
+
+<p>(image:happycomputer.jpg)</p>
+
+<hr>
 
 And I still have it to this day, it's one of the few possessions I really care for.
 
