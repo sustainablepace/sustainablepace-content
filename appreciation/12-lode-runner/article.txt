@@ -29,16 +29,22 @@ Remember, when the game was created in 1982, there were no established genres. E
 
 What we didn't know then, was that the game had a back story: the evil Bungeling empire has stolen the gold of your people, and your mission is to retrieve the gold from them. But we didn't need to know, the game conveys this setup through a minimalistic, chilling atmosphere.
 
-The platforms are simple, red brick structures against an empty, black background.
+Lode Runner takes place in a hostile, desolate world. Unlike the worlds of Nintendo's games a few years later, this game exudes a nihilistic, indifferent atmosphere. The platforms are simple, plain brick structures against a dark, empty background. It feels like an underground world, far away from home.
 
-The sound is almost non-existing, but very effective. There is no music, apart from a short jingle when all boxes have been collected. The only sound effects are when you collect a box, dig a hole, fall off a platform, or a caught by a guard. This is far from the cuddly Nintendo way of doing games - Lode Runner takes place in a hostile, desolate world, and exudes a nihilistic, indifferent atmosphere.
+The sound is almost non-existing. There is no music, apart from a short jingle when all boxes have been collected. The sound effects are sparse, but effective. When you fall off a platform, the glissando from high to low pitch feels like desperate shout. And when you're caught by a guard, it's just a dull, suffocating bleep, which makes you feel life is being sucked out of you.
 
-The animation of the stick figures is surprisingly smooth. By making the protagonist significantly faster that the sluggish, zombie-like guards, you really feel like a hero, making daring runs and narrow escapes from the guards who outnumber you.
+But over all, the animation of the stick figures is surprisingly smooth. By making the protagonist significantly faster than the sluggish, zombie-like guards, you really feel like a hero, making daring runs and narrow escapes from the evil guards who frequently outnumber you. When they have you cornered and there is no way out, you really feel utterly helpless. The game also speaks of "men" and not "lives", so it really feels like a dangerous mission.
 
-## Information wasteland
+## The 1980s, an information wasteland
 
-You can't imagine how little information on computer games was out there in the 1980s. You could only find out about games in stores or from a few magazines. Here's an excerpt from a special edition of Happy Computer, the first that focused exclusively on games. I had that magazine in the 80s, and it was a bible to me.
+You can't imagine how little information on computer games was out there in the 1980s. There were no "Let's Play"s, we watched each other playing games. But you could find out about games in stores like Kaufhof or Quelle. Those were rare treats, and the only reason I accompanied my mother when she went shopping.
+
+But there were also a few magazines. Here's an excerpt from a special edition of Happy Computer, the first that focused exclusively on games. I had that magazine in the 80s, and it was a bible to me.
 
 (image:happycomputer.jpg)
 
-Today you can still play Lode Runner! Simon Hung has made an incredible (text:web port of the original game link:https://loderunnerwebgame.com/LodeRunner/). I couldn't resist playing through all 150 levels again. It's still an awesome game.
+## Revisit Lode Runner
+
+Today you can still play Lode Runner! Simon Hung has made an incredible (text:web port of the original game link:https://loderunnerwebgame.com/LodeRunner/). I couldn't resist playing through all 150 levels again.
+
+It's still an awesome game.
