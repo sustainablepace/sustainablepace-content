@@ -9,11 +9,11 @@ Text:
 
 Lode Runner was one of the first games I played on a Commodore 64 in the 1980s. So far I had only played games on the Atari 2600 video game console, but the Commodore 64 was a full-fledged computer! I guess I first played it at my friend Jochen's house. It took ages to load the game from the tape, and we eagerly watched the counter on the tape deck while the screen flickered in excitement. When the title screen came up, and we finally played the first level, I was immediately blown away. It was truly magical!
 
-(image:loderunner.jpeg)
+(image:loderunner.jpg)
 
 Of course, the tape wasn't an original, but just a copy. In those days, games were shared similar to music, on mixtapes you made for your friends. Tapes were traded in school during breaks, and it was one of the few reasons I liked going to school.
 
-== How do you play Lode Runner? ==
+## Your mission
 
 You play a white stick figure, the lode runner, who has to retrieve a set of boxes, distributed in a maze of platforms and ladders. Once you have collected all boxes, an escape ladder appears at the top of the screen, leading to the next, totally different maze. Each maze is guarded by a set of blue stick figures, who are trying to catch you and can kill you with a single touch.
 
@@ -25,7 +25,7 @@ The guards can also steal uncollected boxes, and by trapping them in a hole you 
 
 Remember, when the game was created in 1982, there were no established genres. Each game was an exciting experiment. Lode Runner was a great combination of a platform and puzzle game, where both dexterity and logic was needed to win.
 
-== A nihilistic experience ==
+## A nihilistic experience
 
 What we didn't know then, was that the game had a back story: the evil Bungeling empire has stolen the gold of your people, and your mission is to retrieve the gold from them. But we didn't need to know, the game conveys this setup through a minimalistic, chilling atmosphere.
 
@@ -35,10 +35,10 @@ The sound is almost non-existing, but very effective. There is no music, apart f
 
 The animation of the stick figures is surprisingly smooth. By making the protagonist significantly faster that the sluggish, zombie-like guards, you really feel like a hero, making daring runs and narrow escapes from the guards who outnumber you.
 
-== Information wasteland ==
+## Information wasteland
 
 You can't imagine how little information on computer games was out there in the 1980s. You could only find out about games in stores or from a few magazines. Here's an excerpt from a special edition of Happy Computer, the first that focused exclusively on games. I had that magazine in the 80s, and it was a bible to me.
 
-(image:happycomputer.jpeg)
+(image:happycomputer.jpg)
 
 Today you can still play Lode Runner! Simon Hung has made an incredible (text:web port of the original game link:https://loderunnerwebgame.com/LodeRunner/). I couldn't resist playing through all 150 levels again. It's still an awesome game.
