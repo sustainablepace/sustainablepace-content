@@ -7,7 +7,7 @@ Date: 2022-03-12
 
 Text:
 
-Lode Runner was one of the first games I played on a __Commodore 64__ in the 1980s. So far I had only played games on the Atari 2600 video game console, but the Commodore 64 was a full-fledged computer! I guess I first played it at my friend Jochen's house. It took ages to load the game from the __tape__, and we eagerly watched the counter on the tape deck spin, while the screen flickered in excitement. When the title screen came up, and we finally played the first level, I was immediately blown away. It was __truly magical__!
+Lode Runner was one of the first games I played on a __Commodore 64__ in the 1980s. So far I had only played games on the Atari 2600 video game console, but the Commodore 64 was a full-fledged computer! I guess I first played it at my friend Jochen's house. It took ages to load the game from the __tape__, and we eagerly watched the counter on the tape deck spin, while the screen flickered erratically. When the title screen came up, and we finally played the first level, I was immediately blown away. It was __truly magical__!
 
 (image:loderunner.jpg)
 
