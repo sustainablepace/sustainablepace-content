@@ -7,7 +7,7 @@ Date: 2022-03-12
 
 Text:
 
-Lode Runner was one of the first games I played on a Commodore 64 in the 1980s. So far I had only played games on the Atari 2600 video game console, but the Commodore 64 was a full-fledged computer! I guess I first played it at my friend Jochen's house. It took ages to load the game from the tape, and we eagerly watched the counter on the tape deck while the screen flickered in excitement. When the title screen came up, and we finally played the first level, I was immediately blown away. It was truly magical!
+Lode Runner was one of the first games I played on a __Commodore 64__ in the 1980s. So far I had only played games on the Atari 2600 video game console, but the Commodore 64 was a full-fledged computer! I guess I first played it at my friend Jochen's house. It took ages to load the game from the tape, and we eagerly watched the counter on the tape deck while the screen flickered in excitement. When the title screen came up, and we finally played the first level, I was immediately blown away. It was truly magical!
 
 (image:loderunner.jpg)
 
@@ -53,6 +53,6 @@ But there were also a few magazines. Here's an excerpt from a 1986 special editi
 
 ## Revisit Lode Runner
 
-Good news! You can still play Lode Runner today. Simon Hung has made an incredible (link: https://loderunnerwebgame.com/LodeRunner/ text:web port of the original game). I couldn't resist playing through all 150 levels again. You can also play the follow up games like Championship Lode Runner, and choose between the Commodore and the Apple version.
+Good news! You can still play Lode Runner today. Simon Hung has made an incredible (link: https://loderunnerwebgame.com/LodeRunner/ text:web port of the original game). I couldn't resist playing through all 150 levels again. You can also play the follow-up games like Championship Lode Runner, and choose between the Commodore and the Apple version.
 
 Try it! It's still an awesome game.
