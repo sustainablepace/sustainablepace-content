@@ -27,13 +27,15 @@ Remember, when the game was created in 1982, there were no established genres. E
 
 What we didn't know then, was that the game had a back story: the evil Bungeling empire had stolen the gold of your people, and your mission is to retrieve the gold from them. But we didn't need to know, the game conveys this setup through its minimalistic, chilling atmosphere.
 
-Lode Runner takes place in a hostile, desolate world. Unlike the worlds of Nintendo's games a few years later, this game exudes a nihilistic, indifferent atmosphere. The platforms are simple, plain brick structures against a dark, empty background. It feels like an underground world, far away from home.
+Unlike the worlds of Nintendo's games a few years later, this game exudes a nihilistic, indifferent atmosphere. The platforms are simple, plain brick structures against a dark, empty background. It feels like an underground world, far away from home.
 
 The sound effects are sparse, but effective. When you fall off a platform, the squeaky glissando feels like a spine-tingling scream. And when you're caught by a guard, all you hear is a dull, suffocating bleep, and you feel all life is being sucked out of you.
 
-The animation of the stick figures is surprisingly smooth. By making the protagonist significantly faster than the sluggish, zombie-like guards, you really feel like a hero, making daring runs and narrow escapes from the evil guards who frequently outnumber you.
+The animation of the stick figures is surprisingly smooth. By making the protagonist significantly faster than the sluggish, zombie-like guards, you really feel like a hero, making daring runs and narrow escapes from the evil antagonists who frequently outnumber you.
 
-But you are definitely a vulnerable hero. When the guards have you cornered and draw nearer, and you realize there is no way out, you really feel utterly helpless. The game also speaks of "men" and not "lives", so it really feels like a dangerous mission, an alien world that might kill you.
+But you are definitely a vulnerable, expendable hero. When the guards have you cornered and draw nearer, and you realize there is no way out, you really feel utterly helpless. The game also speaks of "men" and not "lives", so it really feels like a dangerous mission. Some mazes can only be solved by trial-and-error, and you lose man after man.
+
+It's an alien, hostile, desolate world that is trying to kill you.
 
 ## The 1980s, an information wasteland
 
