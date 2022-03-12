@@ -19,32 +19,34 @@ You play a white stick figure, the lode runner, who has to retrieve a set of box
 
 Fortunately, you're in possession of a weapon that can drill holes in the brick platforms, where you can trap the guards. Unless they climb out of there in time, they get squashed when the hole seals itself automatically after a certain time. But every guard that has been killed is immediately replaced by a new guard at the top of the screen.
 
-The guards can also steal uncollected boxes, and by trapping them in a hole you make them release the box again, so you can collect it. Sometimes the guards just lose the box, after falling off from a platform, or changing direction.
-
 <br><br><iframe width="560" height="315" src="https://www.youtube.com/embed/hYsabZXbxOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 
 Remember, when the game was created in 1982, there were no established genres. Each game was an exciting experiment. Lode Runner was a great combination of a platform and puzzle game, where both dexterity and logic was needed to win.
 
 ## A nihilistic experience
 
-What we didn't know then, was that the game had a back story: the evil Bungeling empire has stolen the gold of your people, and your mission is to retrieve the gold from them. But we didn't need to know, the game conveys this setup through a minimalistic, chilling atmosphere.
+What we didn't know then, was that the game had a back story: the evil Bungeling empire had stolen the gold of your people, and your mission is to retrieve the gold from them. But we didn't need to know, the game conveys this setup through a minimalistic, chilling atmosphere.
 
 Lode Runner takes place in a hostile, desolate world. Unlike the worlds of Nintendo's games a few years later, this game exudes a nihilistic, indifferent atmosphere. The platforms are simple, plain brick structures against a dark, empty background. It feels like an underground world, far away from home.
 
-The sound is almost non-existing. There is no music, apart from a short jingle when all boxes have been collected. The sound effects are sparse, but effective. When you fall off a platform, the glissando from high to low pitch feels like desperate shout. And when you're caught by a guard, it's just a dull, suffocating bleep, which makes you feel life is being sucked out of you.
+The sound effects are sparse, but effective. When you fall off a platform, the glissando from a high to a low pitch feels like a desperate scream. And when you're caught by a guard, all you hear is a dull, suffocating bleep, which makes you feel all life is being sucked out of you.
 
-But over all, the animation of the stick figures is surprisingly smooth. By making the protagonist significantly faster than the sluggish, zombie-like guards, you really feel like a hero, making daring runs and narrow escapes from the evil guards who frequently outnumber you. When they have you cornered and there is no way out, you really feel utterly helpless. The game also speaks of "men" and not "lives", so it really feels like a dangerous mission.
+The animation of the stick figures is surprisingly smooth. By making the protagonist significantly faster than the sluggish, zombie-like guards, you really feel like a hero, making daring runs and narrow escapes from the evil guards who frequently outnumber you.
+
+But you are definitely a vulnerable hero. When the guards have you cornered and draw nearer, and you realize there is no way out, you really feel utterly helpless. The game also speaks of "men" and not "lives", so it really feels like a dangerous mission, an alien world that might kill you.
 
 ## The 1980s, an information wasteland
 
-You can't imagine how little information on computer games was out there in the 1980s. There were no "Let's Play"s, we watched each other playing games. But you could find out about games in stores like Kaufhof or Quelle. Those were rare treats, and the only reason I accompanied my mother when she went shopping.
+You can't imagine how little information on computer games was out there in the 1980s. There were no Let's Play's, we just took turns and watched each other play. But you could find out about games in stores, like Kaufhof or Quelle. Those were rare treats for me, and the only reason I accompanied my mother when she went shopping.
 
-But there were also a few magazines. Here's an excerpt from a special edition of Happy Computer, the first that focused exclusively on games. I had that magazine in the 80s, and it was a bible to me.
+But there were also a few magazines. Here's an excerpt from a 1986 special edition of Happy Computer, the first that focused exclusively on games. I had that magazine in the 80s, and it was a bible to me.
 
 (image:happycomputer.jpg)
 
+I still have it to this day, and it's one of the few possessions I really care for.
+
 ## Revisit Lode Runner
 
-Today you can still play Lode Runner! Simon Hung has made an incredible (text:web port of the original game link:https://loderunnerwebgame.com/LodeRunner/). I couldn't resist playing through all 150 levels again.
+Good news! You can still play Lode Runner today. Simon Hung has made an incredible (text:web port of the original game link:https://loderunnerwebgame.com/LodeRunner/). I couldn't resist playing through all 150 levels again. You can also play the follow up games like Championship Lode Runner, and choose between the Commodore and the Apple version.
 
-It's still an awesome game.
+Try it! It's still an awesome game.
