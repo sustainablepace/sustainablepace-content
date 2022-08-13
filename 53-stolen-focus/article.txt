@@ -8,7 +8,9 @@ Date: 2022-08-13
 
 Text:
 
-Since I have taken on a new position recently, I have had to deal with a more __fragmented work schedule__. I used to work closely with a small team of software developers, doing remote mob programming, which is awesome for focused work. I'm now working as an architect with two teams and their stakeholders, communicating at __different levels of abstraction__ and having a lot __more, albeit smaller tasks__ to deal with. I also have to find time for defining and working on strategically important, __long-term goals__.
+Since I have taken on a new position recently, I have had to deal with a more __fragmented work schedule__. I used to work closely with a small team of software developers, doing remote mob programming, which is awesome for focused work.
+
+I'm now working as an architect with two teams and their stakeholders, communicating at __different levels of abstraction__ and having a lot __more, albeit smaller tasks__ to deal with. I also have to find time for defining and working on strategically important, __long-term goals__.
 
 To be honest, it's a challenge if you're trying to make a difference, and I regularly __struggle__. In search of focus I found this book on social media, of all places. Oh, the irony.
 
@@ -22,11 +24,14 @@ Johann Hari continues by describing the __business models of social media compan
 
 But this book is not about bashing social media companies. Hari shows that the trend of declining attention can be traced back to the 19th century, and the rise of capitalism and the philosophy of economic growth. He argues, that attention is just another resource that is being recklessly exploited - without considering the consequences, like people being susceptible to manipulation and unable to deal with real crises, like global warming.
 
+Unfortunately, these problems are mostly addressed in a superficial manner. Hari mentions the phenomenon of __cruel optimism__, a common, cynical way of offering overly optimistic and simplistic solutions to complex societal problems to individuals. Take for example the rise of yoga and meditation classes in the enterprise context, where a stress-inducing system burdens the individual with solving the problem themselves.
+
+## Hypervigilance
+
 I really like how the book opens up in the second half and shows how sleep quality, diet and nutrition, or the way we raise our children factor in this equation. I especially liked his mentioning of __hypervigilance__, a trait often found in traumatized people. Hypervigilant people are having a hard to focus because their nervous system is much more sensitive to minor impulses from the outside, which are perceived as threats. They are also more susceptible to addiction.
 
+## Summary
 
+However, this is not a self-help book. There are no 10-point-plans or easy life hacks. It's a great collection of studies and facts, that helps you see the bigger picture. Keeping your ability to focus and concentrate is an uphill battle. Johann Hari hopes for political movements, some kind of Attention Rebellion, to fight for regulation and de-growth in general.
 
-
-This is not a self-help book, it's a great collection of studies and facts, that helps you see the bigger picture. There are no 10-point-plans or easy life hacks. Keeping your ability to focus and concentrate is an uphill battle. Johann Hari hopes for political movements, some kind of Attention Rebellion, to fight for regulation and de-growth in general.
-
-The whole remote situation was great for me while being in a stable environment - despite the distractions that linger everywhere. Now that a lot of things are new to me, and I'm still trying to find the right levers, it's more challenging. Thankfully, Johann Hari has written this awesome book.
+Johann Harius manages to take an unembellished look at the situation and draw a clear, compelling picture. This clarity has helped me at least to be more self-compassionate, be clear about my goals, establish routines, and not worry too much.
