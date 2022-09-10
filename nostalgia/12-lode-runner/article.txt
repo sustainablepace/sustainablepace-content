@@ -7,7 +7,7 @@ Date: 2022-03-12
 
 Text:
 
-Lode Runner was one of the first games I played on a __Commodore 64__ in the 1980s. So far I had only played games on the Atari 2600 video game console, but the Commodore 64 was a full-fledged computer! I guess I first played it at my friend Jochen's house. It took ages to load the game from the __tape__, and we eagerly watched the counter on the tape deck spin, while the screen flickered erratically. When the title screen came up, and we finally played the first level, I was immediately blown away. It was __truly magical__!
+Lode Runner was one of the first games I played on a __Commodore 64__ in the 1980s. So far I had only played games on the Atari 2600 video game console, but the Commodore 64 was a full-fledged computer! I guess I first played it at my friend Jochen's house. It took ages to load the game from the __tape__, and we eagerly watched the counter on the tape deck spin, while the screen flickered erratically. When the title screen came up, and we finally played the (link:https://www.youtube.com/watch?v=hYsabZXbxOM text:first level), I was immediately blown away. It was __truly magical__!
 
 (image:loderunner.jpg)
 
@@ -22,8 +22,6 @@ Fortunately, you're in possession of a weapon that can __drill holes__ in the br
 You can also use subsequent drills to create elaborate __tunnels__, in order to reach boxes that are hidden behind several layers of bricks. But you need to precisely plan your tunnels, you can easily get stuck - unlike the guards, you can't climb out of a hole. But you can jump through holes on brick platforms to evade incoming guards!
 
 The whole game is a __rapid flow of decisions__, whether to go left or right, up or down, dig a hole or not, or whether to trap a guard or jump through a hole. You need to both plan ahead and make quick decisions!
-
-<br><br><iframe width="560" height="315" src="https://www.youtube.com/embed/hYsabZXbxOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 
 Remember, when the game was created in 1982, there were __no established genres__. Each game was another exciting experiment. Lode Runner was a great combination of a platform and puzzle game, where both __dexterity__ and __logic__ was needed to win.
 
@@ -47,15 +45,7 @@ It's an incredibly intense experience!
 
 You can't imagine how little information on computer games was out there in the 1980s. There were no Let's Play's, we just __took turns and watched each other play__. But you could find out about games in stores, like Kaufhof or Quelle. Those were rare treats for me, and the only reason I accompanied my mother when she went shopping.
 
-But there were also a few magazines. Here's an excerpt from a 1986 special edition of __Happy Computer__, the first that focused exclusively on games. I had that magazine in the 80s, and it was a bible to me. And I still have it to this day, it's one of the few possessions I really care for.
-
-
-<hr>
-
-<p>(image:happycomputer.jpg)</p>
-
-<hr>
-
+But there were also a few magazines. I remember buying the 1986 special edition of __Happy Computer__, the first that focused exclusively on games. I had that magazine in the 80s, and it was a bible to me. And I still have it to this day, it's one of the few possessions I really care for.
 
 ## Revisit Lode Runner
 
