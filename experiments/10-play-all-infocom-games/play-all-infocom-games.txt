@@ -15,25 +15,25 @@ Result: Successful so far
 
 Text:
 
-When I first had a microcomputer as a kid, I was fascinated by text adventures. These games had no graphics - they were interactive stories. They turned you into a character in a fictional world described by short paragraphs of text. That was followed by a prompt - now it was your turn! You could enter simple commands like "get lamp" or "go north" to interact with and learn about the fictional world, and slowly, a story would unfold.
+When I first had a microcomputer as a kid, I was fascinated by __text adventures__. These games had no graphics - they were interactive stories. They turned you into a character in a fictional world described by short paragraphs of text. That was followed by a prompt - now it was your turn! You could __enter simple commands__ like "get lamp" or "go north" to interact with and learn about the fictional world, and slowly, a story would unfold.
 
-Text adventures were about the only thing you could code without learning how to write machine code. At home, we had a C64, and it came with its own Basic dialect, and I remember learning it from the official manual when I was about 10 years old. I also had a 64er magazine that helped you code your own text adventure games, and I had a lot of fun thinking up short, simple stories.
+Text adventures were about the only thing you could code without learning how to write machine code. At home, we had a __C64__, and it came with its own __Basic__ dialect, and I remember learning it from the official manual when I was about 10 years old. I also had a (link:http://www.homecomputerworld.at/magazine/64er/64er_sonderheft_1985_02.pdf text:64er magazine) that helped you code your own text adventure games, and I had a lot of fun thinking up short, simple stories.
 
 ## About Infocom
 
-The cream of the crop of text adventures back then were the games by Infocom. First, they marketed them as interactive fiction, this exciting, unprecedented art form, mixing literature and games. Then, computer magazines unanimously raved about them. Their ability to process text input, the parser, was hailed as incredibly advanced, interacting with the game was supposed to feel like talking to a real person.
+The cream of the crop of text adventures back then were the games by Infocom. First, they marketed them as __interactive fiction__, this exciting, unprecedented art form, mixing literature and games. Then, computer magazines unanimously raved about them. Their ability to process text input, __the parser__, was hailed as incredibly advanced, interacting with the game was supposed to feel like talking to a real person.
 
-The only problem was, these games were impossible to find for a kid in Germany back then. Almost every game ever released for the C64 made it into our household through a distribution network of school yards, where home-made copies were exchanged nonchalantly during breaks. But sadly, no Infocom games. Buying them was not an option, they were unavailable in stores, and mail order prices were astronomically high.
+The only problem was, these games were __impossible to find__ for a kid in Germany back then. Almost every game ever released for the C64 made it into our household through a distribution network of school yards, where __home-made copies__ were exchanged nonchalantly during breaks. But sadly, no Infocom games. Buying them was not an option, they were unavailable in stores, and mail order __prices were astronomically high__.
 
-It must have been in 1988 when I was lucky to find a few of them in a sale bin in a Massa department store in Koblenz. I got the grey box releases of Sherlock, Plundered Hearts, Stationfall and Border Zone, plus the budget releases of Zork II and Starcross. They cost me 10 DM each, and I'm glad my mother lent me the money to get them all. I was in heaven!
+It must have been in 1988 when I was lucky to find a few of them in a __sale bin__ in a Massa department store in Koblenz. I got the grey box releases of Sherlock, Plundered Hearts, Stationfall and Border Zone, plus the budget releases of Zork II and Starcross. They cost me 10 DM each, and I'm glad my mother lent me the money to get them all. I was in heaven!
 
-What I didn't know that these games were really hard to play for a kid who had just started learning english. I sat in front of the screen with a dictionary and had to look up almost every second word. I tried hard, but not made it far in any of these games. But I adored the atmosphere conveyed by the unique packaging - these games contained items that were needed to solve the game, like a hand-written letter or a matchbook with an address on it.
+What I didn't know that these games were really __hard to play__ for a kid who had just started learning english. I sat in front of the screen with a __dictionary__ and had to look up almost every second word. I tried hard, but not made it far in any of these games. But I adored the __atmosphere__ conveyed by the unique packaging - these games contained items, called __feelies__, that were needed to solve the game, like a hand-written letter or a matchbook with an address on it.
 
 ## Let's play all Infocom games!
 
-As I grew up, I kind of forgot about these games. As a student, I wanted to buy a guitar and sold my humble Infocom collection on eBay, for a ridiculously high price. But now, all games are (link:https://github.com/the-infocom-files text:available for free), and nothing is stopping me from delving back into this treasure of interactive fiction - let's play all Infocom games!
+As I grew up, I kind of forgot about these games. As a student, I wanted to buy a guitar and sold my humble Infocom collection on eBay, for a ridiculously high price. But now, all games are (link:https://github.com/the-infocom-files text:available for free), and nothing is stopping me from delving back into this treasure of interactive fiction.
 
-I used to play the games with Zoom on my Mac, but after an OS upgrade it stopped working, so I switched to Frotz, which can be installed easily via homebrew. So far, the games have aged incredibly well, and as I have the necessary English skills now, I enjoy them tremendously!
+I used to play the games with (link:https://logicalshift.co.uk/unix/zoom/ text:Zoom) on my Mac, but after an OS upgrade it stopped working, so I switched to (link:https://davidgriffith.gitlab.io/frotz/ text:Frotz), which can be installed easily via homebrew. So far, the games have aged incredibly well, and as I have the necessary English skills now, I enjoy them tremendously!
 
 ## Done
  - __2022__ Planetfall (Steve Meretzky, 1983).
