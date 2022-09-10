@@ -19,7 +19,7 @@ When I first had a microcomputer as a kid, I was fascinated by text adventures. 
 
 Text adventures were about the only thing you could code without learning how to write machine code. At home, we had a C64, and it came with its own Basic dialect, and I remember learning it from the official manual when I was about 10 years old. I also had a 64er magazine that helped you code your own text adventure games, and I had a lot of fun thinking up short, simple stories.
 
-# Infocom
+## About Infocom
 
 The cream of the crop of text adventures back then were the games by Infocom. First, they marketed them as interactive fiction, this exciting, unprecedented art form, mixing literature and games. Then, computer magazines unanimously raved about them. Their ability to process text input, the parser, was hailed as incredibly advanced, interacting with the game was supposed to feel like talking to a real person.
 
@@ -29,7 +29,7 @@ It must have been in 1988 when I was lucky to find a few of them in a sale bin i
 
 What I didn't know that these games were really hard to play for a kid who had just started learning english. I sat in front of the screen with a dictionary and had to look up almost every second word. I tried hard, but not made it far in any of these games. But I adored the atmosphere conveyed by the unique packaging - these games contained items that were needed to solve the game, like a hand-written letter or a matchbook with an address on it.
 
-# Let's play all Infocom games!
+## Let's play all Infocom games!
 
 As I grew up, I kind of forgot about these games. As a student, I wanted to buy a guitar and sold my humble Infocom collection on eBay, for a ridiculously high price. But now, all games are (link:https://github.com/the-infocom-files text:available for free), and nothing is stopping me from delving back into this treasure of interactive fiction - let's play all Infocom games!
 
