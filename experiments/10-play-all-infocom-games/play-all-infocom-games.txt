@@ -36,40 +36,40 @@ As I grew up, I kind of forgot about these games. As a student, I wanted to buy 
 I used to play the games with (link:https://logicalshift.co.uk/unix/zoom/ text:Zoom) on my Mac, but after an OS upgrade it stopped working, so I switched to (link:https://davidgriffith.gitlab.io/frotz/ text:Frotz), which can be installed easily via homebrew. So far, the games have aged incredibly well, and as I have the necessary English skills now, I enjoy them tremendously!
 
 ## Done
- - __2022__ Planetfall (Steve Meretzky, 1983).
- - __2022__ Suspect (Dave Lebling, 1984).
- - __2021__ Sorcerer (Steve Meretzky, 1984).
- - __2020__ Seastalker (Stu Galley and Jim Lawrence, 1984).
- - __2019__ Zork: The Great Underground Empire (Marc Blank and Dave Lebling, 1980).
- - __2019__ Wishbringer (Brian Moriarty, 1985).
- - __2018__ The Witness (Stu Galley, 1983).
- - __2017__ Enchanter (Marc Blank and Dave Lebling, 1983).
- - __2017__ Moonmist (Stu Galley and Jim Lawrence, 1986).
+- __2022__ Planetfall (Steve Meretzky, 1983).
+- __2022__ Suspect (Dave Lebling, 1984).
+- __2021__ Sorcerer (Steve Meretzky, 1984).
+- __2020__ Seastalker (Stu Galley and Jim Lawrence, 1984).
+- __2019__ Zork: The Great Underground Empire (Marc Blank and Dave Lebling, 1980).
+- __2019__ Wishbringer (Brian Moriarty, 1985).
+- __2018__ The Witness (Stu Galley, 1983).
+- __2017__ Enchanter (Marc Blank and Dave Lebling, 1983).
+- __2017__ Moonmist (Stu Galley and Jim Lawrence, 1986).
 
 ## To Do
- - Zork II: The Wizard of Frobozz (Marc Blank and Dave Lebling, 1981).
- - Deadline (Marc Blank, 1982).
- - Zork III: The Dungeon Master (Marc Blank and Dave Lebling, 1982).
- - Starcross (Dave Lebling, 1982).
- - Suspended (Michael Berlyn, 1983).
- - Infidel (Michael Berlyn and Patricia Fogleman, 1983).
- - Cutthroats (Michael Berlyn and Jerry Wolper, 1984).
- - The Hitchhiker's Guide to the Galaxy (Douglas Adams and Steve Meretzky, 1984).
- - A Mind Forever Voyaging (Steve Meretzky, 1985).
- - Spellbreaker (Dave Lebling, 1985).
- - Ballyhoo (Jeff O'Neill, 1986).
- - Trinity (Brian Moriarty, 1986).
- - Leather Goddesses of Phobos (Steve Meretzky, 1986).
- - Hollywood Hijinx (Dave Anderson and Liz Cyr-Jones, 1986).
- - Bureaucracy (Douglas Adams et al., 1987).
- - Stationfall (Steve Meretzky, 1987).
- - The Lurking Horror (Dave Lebling, 1987).
- - Nord and Bert Couldn't Make Head or Tail of It (Jeff O'Neill, 1987).
- - Plundered Hearts (Amy Briggs, 1987).
- - Beyond Zork (Brian Moriarty, 1987).
- - Border Zone (Marc Blank, 1987).
- - Sherlock: The Riddle of the Crown Jewels (Bob Bates, 1988).
- - Zork Zero: The Revenge of Megaboz (Steve Meretzky, 1988).
- - James Clavell's Shogun (Dave Lebling, 1989).
- - Journey: The Quest Begins (1988).
- - Arthur: The Quest for Excalibur (Bob Bates, 1989).
+- Zork II: The Wizard of Frobozz (Marc Blank and Dave Lebling, 1981).
+- Deadline (Marc Blank, 1982).
+- Zork III: The Dungeon Master (Marc Blank and Dave Lebling, 1982).
+- Starcross (Dave Lebling, 1982).
+- Suspended (Michael Berlyn, 1983).
+- Infidel (Michael Berlyn and Patricia Fogleman, 1983).
+- Cutthroats (Michael Berlyn and Jerry Wolper, 1984).
+- The Hitchhiker's Guide to the Galaxy (Douglas Adams and Steve Meretzky, 1984).
+- A Mind Forever Voyaging (Steve Meretzky, 1985).
+- Spellbreaker (Dave Lebling, 1985).
+- Ballyhoo (Jeff O'Neill, 1986).
+- Trinity (Brian Moriarty, 1986).
+- Leather Goddesses of Phobos (Steve Meretzky, 1986).
+- Hollywood Hijinx (Dave Anderson and Liz Cyr-Jones, 1986).
+- Bureaucracy (Douglas Adams et al., 1987).
+- Stationfall (Steve Meretzky, 1987).
+- The Lurking Horror (Dave Lebling, 1987).
+- Nord and Bert Couldn't Make Head or Tail of It (Jeff O'Neill, 1987).
+- Plundered Hearts (Amy Briggs, 1987).
+- Beyond Zork (Brian Moriarty, 1987).
+- Border Zone (Marc Blank, 1987).
+- Sherlock: The Riddle of the Crown Jewels (Bob Bates, 1988).
+- Zork Zero: The Revenge of Megaboz (Steve Meretzky, 1988).
+- James Clavell's Shogun (Dave Lebling, 1989).
+- Journey: The Quest Begins (1988).
+- Arthur: The Quest for Excalibur (Bob Bates, 1989).
