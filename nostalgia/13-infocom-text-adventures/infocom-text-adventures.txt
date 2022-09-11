@@ -23,13 +23,13 @@ What I didn't know that these games were really __hard to play__ for a kid who h
 
 A few years later I got a PC, and a friend had the (link:https://en.wikipedia.org/wiki/The_Lost_Treasures_of_Infocom text:Lost Treasures of Infocom) collection. I looked into a few games, but as I grew up and finished school, I kind of lost interest and forgot about these games. As a student, I wanted to buy a guitar and sold my humble Infocom collection on eBay, for a ridiculously high price.
 
-## Revisiting Infocom games today
+## Revisiting Infocom games
 
-A few years back I realized how much I appreciated the experience of playing Infocom games, and started playing them again, hoping to finish all of them at some point in the future. The experience is truly unique. You need laser-sharp focus to appreciate and ultimately solve them. You need to draw your own maps and make lots of notes. Solving a puzzle and in general making progress feels so rewarding. It is a slow and deep experience, and feels totally out-of-time.
+A few years back I realized how much I missed playing Infocom games, and how they made me feel. So I started to revisit them, hoping to finish all of them at some point in the future. The experience is truly unique, and hasn't aged a bit. You need __laser-sharp focus__ to appreciate and ultimately solve them. You need to __draw your own maps__ and make lots of notes. Solving a puzzle and in general making progress feels so __rewarding__. You spend a lot of time away from the game thinking about the puzzles, which makes it a personal and creative, slow and deep experience, which feels totally out-of-time.
 
-So far, the games have aged incredibly well, and as I have the necessary English skills now, I enjoy them tremendously!
+(image:map.gif)
 
-## How to play Infocom games today
+### How to play Infocom games today
 
 All games are (link:https://github.com/the-infocom-files text:available for free), and nothing is stopping me from delving back into this treasure of interactive fiction. I used to play the games with (link:https://logicalshift.co.uk/unix/zoom/ text:Zoom) on my Mac, but after an OS upgrade it stopped working, so I switched to (link:https://davidgriffith.gitlab.io/frotz/ text:Frotz), which can be installed easily via homebrew.
 
