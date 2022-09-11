@@ -1,16 +1,4 @@
-Title: Play all Infocom games
-----
-
-Duration: Probably a lifetime thing
-
-----
-
-Status: Ongoing
-
-----
-
-Result: Successful so far
-
+Title: Infocom text adventures (1980-1989)
 ----
 
 Text:
@@ -35,7 +23,7 @@ As I grew up, I kind of forgot about these games. As a student, I wanted to buy 
 
 I used to play the games with (link:https://logicalshift.co.uk/unix/zoom/ text:Zoom) on my Mac, but after an OS upgrade it stopped working, so I switched to (link:https://davidgriffith.gitlab.io/frotz/ text:Frotz), which can be installed easily via homebrew. So far, the games have aged incredibly well, and as I have the necessary English skills now, I enjoy them tremendously!
 
-## Done
+### Done
 - __2022__ Planetfall (Steve Meretzky, 1983).
 - __2022__ Suspect (Dave Lebling, 1984).
 - __2021__ Sorcerer (Steve Meretzky, 1984).
@@ -46,7 +34,7 @@ I used to play the games with (link:https://logicalshift.co.uk/unix/zoom/ text:Z
 - __2017__ Enchanter (Marc Blank and Dave Lebling, 1983).
 - __2017__ Moonmist (Stu Galley and Jim Lawrence, 1986).
 
-## To Do
+### To Do
 - Zork II: The Wizard of Frobozz (Marc Blank and Dave Lebling, 1981).
 - Deadline (Marc Blank, 1982).
 - Zork III: The Dungeon Master (Marc Blank and Dave Lebling, 1982).
