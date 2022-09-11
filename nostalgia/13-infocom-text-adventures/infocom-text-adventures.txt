@@ -1,6 +1,10 @@
 Title: Infocom text adventures (1980-1989)
 ----
 
+Date: 2022-09-11
+
+----
+
 Text:
 
 When I first had a microcomputer as a kid, I was fascinated by __text adventures__. These games had no graphics - they were interactive stories. They turned you into a character in a fictional world described by short paragraphs of text. That was followed by a prompt - now it was your turn! You could __enter simple commands__ like "get lamp" or "go north" to interact with and learn about the fictional world, and slowly, a story would unfold.
@@ -19,9 +23,9 @@ The only problem was, these games were __impossible to find__ for a kid in Germa
 
 It must have been in 1988 when I was lucky to find a few of them in a __sale bin__ in a Massa department store in Koblenz. I got the (link:http://infocom.elsewhere.org/gallery/greybox.html text:grey box) releases of Sherlock, Plundered Hearts, Stationfall and Border Zone, plus the budget releases of Zork II and Starcross. They cost me 10 DM each, and I'm glad my mother lent me the money to get them all. I was in heaven!
 
-What I didn't know that these games were really __hard to play__ for a kid who had just started learning english. I sat in front of the screen with a __dictionary__ and had to look up almost every second word. I tried hard, but not made it far in any of these games. But I adored the __atmosphere__ conveyed by the unique packaging - these games contained items, called __feelies__, that were needed to solve the game, like a hand-written letter or a matchbook with an address on it.
+What I didn't know that these games were really __hard to play__ for a kid who had just started learning english. I sat in front of the screen with a __dictionary__ and had to look up almost every second word. I tried hard, but not made it far in any of these games. But I adored the __atmosphere__ conveyed by the unique packaging - these games contained items, called __feelies__, that were needed to solve the game, like a hand-written letter or an actual matchbook with an address on it.
 
-A few years later I got a PC, and a friend had the (link:https://en.wikipedia.org/wiki/The_Lost_Treasures_of_Infocom text:Lost Treasures of Infocom) collection. I looked into a few games, but as I grew up and finished school, I kind of lost interest and forgot about these games. As a student, I wanted to buy a guitar and sold my humble Infocom collection on eBay, for a ridiculously high price.
+A few years later I got a PC, and a friend had the (link:https://en.wikipedia.org/wiki/The_Lost_Treasures_of_Infocom text:Lost Treasures of Infocom) collection. I looked into a few games, but as I grew up and finished school, I kind of lost interest and forgot about them. As a student, I wanted to buy a guitar and sold my humble Infocom collection on eBay, for a ridiculously high price.
 
 ## Revisiting Infocom games
 
