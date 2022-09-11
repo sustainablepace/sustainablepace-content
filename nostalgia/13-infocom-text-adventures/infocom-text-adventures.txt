@@ -33,7 +33,7 @@ A few years back I realized how much I missed playing Infocom games, and how the
 
 All games are (link:https://github.com/the-infocom-files text:available for free), and nothing is stopping me from delving back into this treasure of interactive fiction. I used to play the games with (link:https://logicalshift.co.uk/unix/zoom/ text:Zoom) on my Mac, but after an OS upgrade it stopped working, so I switched to (link:https://davidgriffith.gitlab.io/frotz/ text:Frotz), which can be installed easily via homebrew.
 
-My progress so far
+I guess it will take several years more to finish them all, but I think I'm getting better at it over time!
 
 ### Done
 - __2022__ Planetfall (Steve Meretzky, 1983).
