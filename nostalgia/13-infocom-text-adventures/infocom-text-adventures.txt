@@ -5,6 +5,8 @@ Text:
 
 When I first had a microcomputer as a kid, I was fascinated by __text adventures__. These games had no graphics - they were interactive stories. They turned you into a character in a fictional world described by short paragraphs of text. That was followed by a prompt - now it was your turn! You could __enter simple commands__ like "get lamp" or "go north" to interact with and learn about the fictional world, and slowly, a story would unfold.
 
+(image:planetfall.gif)
+
 Text adventures were about the only thing you could code without learning how to write machine code. At home, we had a __C64__, and it came with its own __Basic__ dialect, and I remember learning it from the official manual when I was about 10 years old. I also had a (link:http://www.homecomputerworld.at/magazine/64er/64er_sonderheft_1985_02.pdf text:64er magazine) that helped you code your own text adventure games, and I had a lot of fun thinking up short, simple stories.
 
 ## About Infocom
