@@ -14,7 +14,7 @@ Text:
 
 When I started out as an architect a year ago, I was suddenly flooded by a tidal wave of information. I started __taking notes__ right away, however they lacked structure and rigor - I didn't get as much out of them as I had hoped.
 
-Instead of getting my brain to remember every detail of my life, note-taking was supposed to help me focus on __turning information into tangible results__. By extending my mind through note-taking, I hoped to have more cognitive resources available to excel at creative tasks.
+Instead of getting my brain to remember every detail of my life, note-taking was supposed to help me focus on __turning information into tangible results__. By (link:the-extended-mind text:extending my mind) through note-taking, I hoped to have more cognitive resources available to excel at creative tasks.
 
 I was so happy to come across Tiago Forte's amazing book __Building a Second Brain__ (BASB), an opinionated set of systems and habits to get the most out of note-taking, and it bootstrapped my quest of becoming an __effective knowledge worker__ that can constantly __produce impactful work__.
 
