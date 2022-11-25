@@ -45,6 +45,7 @@ If you have no idea where to start, the author suggests __naming 12 problems__ y
 ## Organize
 
 Forte suggests the following initial structure for your second brain
+
 -   __Projects__
 -   __Areas__
 -   __Resources__
