@@ -20,7 +20,7 @@ I was so happy to come across Tiago Forte's amazing book __Building a Second Bra
 
 (image:basb.jpeg)
 
-# CODE - From idea to product
+## CODE - From idea to product
 The BASB approach consists of four phases
 
 -   __Capture__ - Keep what resonates
@@ -34,7 +34,7 @@ For example, for this blog post, I first __marked passages__ of the book in my e
 
 I think CODE is a truly __universal knowledge work pattern__, for example, I can seamlessly apply it to my Event Storming sessions, which seem to follow the same pattern of divergence, emergence, and convergence.
 
-## Capture
+### Capture
 Here are four simple questions to find out what to capture in your Second Brain
 
 -   Does It __Inspire__ Me?
@@ -44,7 +44,7 @@ Here are four simple questions to find out what to capture in your Second Brain
 
 If you have no idea where to start, the author suggests __naming 12 problems__ you are working on at the moment. This is in itself a really cool exercise. But ultimately, __capture what resonates__. I have talked about interoception in The Extended Mind, so become sensible to the feeling when things excite you enough to make a note.
 
-## Organize
+### Organize
 Forte suggests the following initial structure for your second brain
 
 -   __Projects__
@@ -54,17 +54,17 @@ Forte suggests the following initial structure for your second brain
 
 The first letters form the acronym __PARA__, referring to your second brain as existing __parallel__ to the first one. PARA isn't a filing system, it's __designed for activity__. Instead of creating an elaborate folder structure similar to a library, it helps you focus on the projects you want to finish.
 
-## Distill
+### Distill
 __Progressive Summarization__ is the core skill for managing your notes. It comes down to highlighting the most relevant parts of your notes and then again highlighting the highlights. By this, you make the notes easier to use when you revisit them later.
 
 As an analogy, you can think of __Pablo Picasso’s Bull__. Picasso started out with a detailed painting of the animal and subsequently simplified it until he was able to draw it with just a single line.
 
-## Express
+### Express
 Of all the techniques Forte mentions here, I loved what he calls the __Hemingway bridge__ best. Hemingway was known for not exhausting his ideas when writing, he always stopped with an idea in mind about how he would continue. It's a great way to __avoid writer's block__ as you can easily resume your work.
 
 Forte also talks about focus, using the analogy of a __hot-air balloon__. It can only take off once you throw enough load overboard. Always think “What is the smallest version of this I can produce to get useful feedback from others?”
 
-# It's a lifelong practice
+## It's a lifelong practice
 While building a Second Brain is a small project (I set up Obsidian, created a simple folder structure, and synced the files to my NAS), using your Second Brain is a lifelong practice. It takes __time__ and __discipline__ - but pays off quickly.
 
 I start to see the results. My __writing__ has skyrocketed this year, and I'm improving my __meeting preparation__. I simply love the moment when I can quickly find information from a previous meeting in my Second Brain.
