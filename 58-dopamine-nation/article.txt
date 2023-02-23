@@ -16,7 +16,7 @@ After having read (link:mindful-self-discipline text:Mindful Self-Discipline) I 
 
 (image:dopaminenation.jpg)
 
-_If you don't want to read the whole book or this blog post, this YouTube video How to find balance in the age of indulgence is a brillant summary._
+_If you don't want to read the whole book or this blog post, this YouTube video (link:https://www.youtube.com/watch?v=aEfkx3DsXjs text:How to find balance in the age of indulgence) is a brillant summary._
 
 ## The Pleasure-Pain Balance
 Like any complex living system, the human body strives towards an __equilibrium__. Positive feedback loops are counteracted by negative feedback loops, which keep the whole system in balance. For example, if the balance tips towards either pleasure or pain, there are mechanisms in the brain that automatically bring us back to an even level.
